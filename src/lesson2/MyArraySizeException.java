@@ -2,7 +2,7 @@ package lesson2;
 
 public class MyArraySizeException extends Exception{
     public MyArraySizeException() {
-        //super("Нарушены размеры массива");
+
     }
 
 }
